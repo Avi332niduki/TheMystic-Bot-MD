@@ -1,4 +1,8 @@
 {
+    "___creditos": {
+        "___Contribuidor": "https://github.com/jeffersonalionco",
+        "___Criador": "https://github.com/BrunoSobrino"
+    },
     "plugins": {
         "antiarab": {
             "texto1": "_*< ANTI-ÁRABES />*_\n\n*[ ℹ️ ] Neste grupo não são permitidos números que começam com +212. Por isso, será excluído do grupo.*",
@@ -1525,7 +1529,225 @@
                 "*• Tempo:*",
                 "*• Bônus:*"
             ],
-            "texto3": "O tempo acabou!\n*Resposta:*"
+            "texto3": "O tempo acabou!\n*Resposta:*",
+            "texto4": [
+                {
+                    "question": "O que um pinguim diz para outro pinguim?",
+                    "response": "Eu te amo como nenhum outro"
+                },
+                {
+                    "question": "O que um cego diz para outro cego?",
+                    "response": "Nos vemos depois"
+                },
+                {
+                    "question": "Em que um alfinete se parece com um policial?",
+                    "response": "Ambos prendem"
+                },
+                {
+                    "question": "O que congela quando é aquecido?",
+                    "response": "O computador"
+                },
+                {
+                    "question": "Que fruta tem muitos olhos, mas não pode ver?",
+                    "response": "O abacaxi"
+                },
+                {
+                    "question": "Em que idioma as tartarugas se comunicam?",
+                    "response": "Em tartarugês"
+                },
+                {
+                    "question": "Como um policial de Sevilha chama sua arma?",
+                    "response": "Minha arma"
+                },
+                {
+                    "question": "O que é tudo para um e nada para os outros?",
+                    "response": "A mente"
+                },
+                {
+                    "question": "Qual é o colmo de um aspirador de pó?",
+                    "response": "Ser alérgico à poeira"
+                },
+                {
+                    "question": "O que desaparece quando você o menciona?",
+                    "response": "O silêncio"
+                },
+                {
+                    "question": "O que precisamos para escrever dormindo?",
+                    "response": "Estar acordado"
+                },
+                {
+                    "question": "Que objeto pode ter uma cara sem ter um corpo?",
+                    "response": "Uma moeda"
+                },
+                {
+                    "question": "Alimenta a casa, Gabinete com gelo",
+                    "response": "A geladeira"
+                },
+                {
+                    "question": "O que as mulheres têm entre as pernas?",
+                    "response": "Os joelhos"
+                },
+                {
+                    "question": "Entra duro e seco e sai macio e molhado. O que é?",
+                    "response": "Um chiclete"
+                },
+                {
+                    "question": "Estou em tudo e estou em nada. O que sou?",
+                    "response": "A letra d"
+                },
+                {
+                    "question": "Continuo vermelho, mas paro no verde. O que sou?",
+                    "response": "Uma melancia"
+                },
+                {
+                    "question": "O que é preto quando você o compra, vermelho quando o usa e cinza quando o joga fora?",
+                    "response": "O carvão"
+                },
+                {
+                    "question": "O que está sempre à sua frente, mas você não pode ver?",
+                    "response": "O futuro"
+                },
+                {
+                    "question": "Qual mês tem 28 dias?",
+                    "response": "Todos"
+                },
+                {
+                    "question": "Como alguém pode ficar acordado por dez dias e não ter sono?",
+                    "response": "Dormindo à noite"
+                },
+                {
+                    "question": "Como você encheria um barril para que pesasse o menos possível?",
+                    "response": "Com buracos"
+                },
+                {
+                    "question": "Se durante uma corrida você ultrapassa quem está em segundo lugar, em que posição você está?",
+                    "response": "Segundo"
+                },
+                {
+                    "question": "Onde a quinta-feira está antes da quarta-feira?",
+                    "response": "No dicionário"
+                },
+                {
+                    "question": "O que sobe e desce, mas sempre permanece no mesmo lugar?",
+                    "response": "As escadas"
+                },
+                {
+                    "question": "Como eles chamam um elevador na China?",
+                    "response": "Apertando o botão"
+                },
+                {
+                    "question": "O que um elefante faz ao nascer do sol?",
+                    "response": "Sombra"
+                },
+                {
+                    "question": "Por que um Tiranosaurus Rex não pode aplaudir?",
+                    "response": "Porque está extinto"
+                },
+                {
+                    "question": "Qual animal está sempre cheio?",
+                    "response": "A baleia"
+                },
+                {
+                    "question": "O que todos fazemos assim que acordamos?",
+                    "response": "Abrimos os olhos"
+                },
+                {
+                    "question": "Qual é o número que, se você dividir pela metade, será zero?",
+                    "response": "Oito"
+                },
+                {
+                    "question": "O que você precisa fazer para acender uma vela?",
+                    "response": "Que ela esteja apagada"
+                },
+                {
+                    "question": "Qual é o país onde tudo termina?",
+                    "response": "Finlândia"
+                },
+                {
+                    "question": "A resposta para esta pergunta é #######",
+                    "response": "#######"
+                },
+                {
+                    "question": "Qual é o fim de tudo?",
+                    "response": "A letra o"
+                },
+                {
+                    "question": "Onde você encontra uma parede com outra parede?",
+                    "response": "No canto"
+                },
+                {
+                    "question": "O que tem muitas palavras, mas nunca fala?",
+                    "response": "Um livro"
+                },
+                {
+                    "question": "O que é seu, mas os outros usam mais do que você?",
+                    "response": "Seu nome"
+                },
+                {
+                    "question": "Em que momento uma pessoa se torna fruta?",
+                    "response": "Quando espera"
+                },
+                {
+                    "question": "Os pais de José têm três filhos: Luis, Raúl e..., como se chama o terceiro?",
+                    "response": "José"
+                },
+                {
+                    "question": "Que palavra do dicionário é escrita incorretamente?",
+                    "response": "Incorretamente"
+                },
+                {
+                    "question": "Úmido por dentro, com cabelos por fora. Começa com C. Do que se trata?",
+                    "response": "Um coco"
+                },
+                {
+                    "question": "David e Fabián estão jogando xadrez. Eles jogaram 5 partidas, mas ambos ganharam 3. Como é possível?",
+                    "response": "Porque jogam com mais pessoas"
+                },
+                {
+                    "question": "Quantos 9 existem entre 1 e 100?",
+                    "response": "Vinte"
+                },
+                {
+                    "question": "São dois ventiladores que funcionam o dia todo, mas quando você dormir, eles param e ficam parados",
+                    "response": "Os cílios"
+                },
+                {
+                    "question": "Ouro parece, prata não é, e quem não adivinhar é um tolo",
+                    "response": "Uma banana"
+                },
+                {
+                    "question": "Círculo bem redondo que, se você bater, dá um salto de susto",
+                    "response": "Um tambor"
+                },
+                {
+                    "question": "Um cavalo branco entra no Mar Negro. Como ele sai?",
+                    "response": "Sai molhado"
+                },
+                {
+                    "question": "Se um trem elétrico vai do Norte ao Sul, para que lado o vapor vai?",
+                    "response": "É elétrico, não emite vapor"
+                },
+                {
+                    "question": "Tem 4 letras, começa com C e termina com O e está na parte de trás",
+                    "response": "O cotovelo"
+                },
+                {
+                    "question": "Um avião cai e todos morrem, exatamente na fronteira entre Espanha e Portugal. A que hospital devem levar os sobreviventes?",
+                    "response": "Não há sobreviventes"
+                },
+                {
+                    "question": "Este banco é ocupado por um pai e um filho, o pai se chama Juan e o filho já te disse",
+                    "response": "Esteban"
+                },
+                {
+                    "question": "Alguns meses têm 31 dias, outros apenas 30. Quantos têm 28 dias?",
+                    "response": "Todos"
+                },
+                {
+                    "question": "Você não pode ver, mas não pode viver sem. O que é?",
+                    "response": "O ar"
+                }
+            ]
         },
         "game_akinator_ans": {
             "texto1": "*0 - Sim*\n*1 - Não*\n*2 - Não sei*\n*3 - Provavelmente sim*\n*4 - Provavelmente não*\n*5 - Voltar à pergunta anterior*",
@@ -1966,14 +2188,14 @@
             "texto6": "*[❗] UM JOGADOR ENTROU NA SALA E AGUARDA TODOS ENTRAREM*"
         },
         "gc_add": {
-            "texto1": "*[ ⚠️ ] O DONO DA CONVERSA SOLICITOU O SEU CONTATO (habilite restrito / desabilite restrito) E USOU ESTE COMANDO*",
-            "texto2": "*[❗] UM MEMBRO DO GRUPO ADICIONOU SEU NÚMERO DE TELEFONE PARA AGREGÁ-LO*",
+            "texto1": "[ ⚠️ ] O PROPRIETÁRIO DA CONVERSA SOLICITOU SEU CONTATO (ativar contatos restritos / desativar contatos restritos) E USOU ESTE COMANDO",
+            "texto2": "[❗] UM MEMBRO DO GRUPO ADICIONOU SEU NÚMERO DE TELEFONE PARA TE ADICIONAR",
             "texto3": [
-                "*[❗INFORMAÇÃO❗] NÃO FUI POSSÍVEL ADICIONAR A",
-                " SUA CONTA PORQUE OCORREU UM PROBLEMA ESTEJA INFORMADO, LA PESSOA SE HA IDO DE LA GRUPO O LA PERSONA HA CANCELADO SU PRIVACIDAD DE GRUPO EN SU PRIVACIDAD DE GRUPO, SE LE ENVÍO EL INVITACIÓN AL GRUPO EN SU PRIVACIDAD DE GRUPO O LA PERSONA HA CONFIRMADO SU PRIVACIDAD DE GRUPO, LOS ADMINISTRADORES LE ENVIARÁN LA INVITACIÓN AL GRUPO EN SU PRIVACIDAD DE GRUPO, TE INVITO A LA INVITACIÓN DE GRUPO EN SU PRIVACIDAD DE GRUPO, LOS ADMINISTRADORES ENVIARÁN LA INVITACIÓN DE GRUPO A SU PRIVACIDAD DE GRUPO, LOS ADMINISTRADORES SE ASEGURARÁN DE QUE LA INVITACIÓN AL GRUPO SE ENVÍE A SU PRIVACIDAD DE GRUPO, LOS ADMINISTRADORES GARANTIZARÁN QUE LA INVITACIÓN AL GRUPO SE ENVIÉ A SU PRIVACIDAD DE GRUPO!!*"
+                "[❗INFORMAÇÃO❗] IMPOSSÍVEL ADICIONAR",
+                "À SUA CONTA PORQUE OCORREU UM PROBLEMA. NOTE QUE A PESSOA SAIU DO GRUPO OU CANCELOU SUA PRIVACIDADE DE GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. O CONVITE FOI ENVIADO AO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO OU A PESSOA CONFIRMOU SUA PRIVACIDADE DE GRUPO. OS ADMINISTRADORES ENVIARÃO O CONVITE AO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. CONVIDO VOCÊ AO CONVITE DO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES ENVIARÃO O CONVITE DO GRUPO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES GARANTIRÃO QUE O CONVITE AO GRUPO SEJA ENVIADO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES GARANTIRÃO QUE O CONVITE AO GRUPO SEJA ENVIADO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO !!"
             ],
-            "texto4": "Oi!! Olá, me apresento, sou o The Mystic - Bot e sou um Bot para WhatsApp. Alguém do grupo usou o comando para te adicionar ao grupo, mas não consegui te adicionar, então estou te enviando o convite para que você se junte a nós. Te esperamos!!",
-            "texto5": "*[❗INFORMAÇÃO❗] NÃO FOI POSSÍVEL ADICIONAR O SEU NÚMERO PORQUE OCORREU UM PROBLEMA. SAIBA QUE A PESSOA SAIU DO GRUPO OU A PESSOA CANCELOU SUA PRIVACIDADE DE GRUPO EM SUA CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. O CONVITE FOI ENVIADO AO GRUPO EM SUA CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO OU A PESSOA CONFIRMOU SUA PRIVACIDADE DE GRUPO. OS ADMINISTRADORES ENVIARÃO O CONVITE AO GRUPO EM SUA CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. CONVIDO VOCÊ PARA O CONVITE DO GRUPO EM SUA CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES ENVIARÃO O CONVITE DO GRUPO PARA A SUA CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES SE CERTIFICARÃO DE QUE O CONVITE DO GRUPO SEJA ENVIADO À SUA CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES GARANTIRÃO QUE O CONVITE DO GRUPO SEJA ENVIADO À SUA CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO!!*"
+            "texto4": "Oi!! Olá, eu sou The Mystic - Bot e sou um Bot para WhatsApp. Alguém do grupo usou o comando para te adicionar ao grupo, mas não pude te adicionar, então estou te enviando o convite para que você se junte a nós. Estamos te esperando!!",
+            "texto5": "[❗INFORMAÇÃO❗] IMPOSSÍVEL ADICIONAR SEU NÚMERO PORQUE OCORREU UM PROBLEMA. NOTE QUE A PESSOA SAIU DO GRUPO OU CANCELOU SUA PRIVACIDADE DE GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. O CONVITE FOI ENVIADO AO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO OU A PESSOA CONFIRMOU SUA PRIVACIDADE DE GRUPO. OS ADMINISTRADORES ENVIARÃO O CONVITE AO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. CONVIDO VOCÊ AO CONVITE DO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES ENVIARÃO O CONVITE DO GRUPO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES GARANTIRÃO QUE O CONVITE AO GRUPO SEJA ENVIADO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES GARANTIRÃO QUE O CONVITE AO GRUPO SEJA ENVIADO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO !!"
         },
         "gc_admins": {
             "texto1": [
@@ -2698,7 +2920,9 @@
                 "*<opção> <tempo>*_",
                 "(sem prefixo)",
                 "*<nome sala>*_"
-            ]
+            ],
+            "texto2": "_< Opções idioma 🌎 >_ ",
+            "texto3": "_< Idioma de Grupos >_"
         },
         "mipilot_serbot_broadcast": {
             "texto1": "*〔 DIFUSIÓN A SUB BOTS 〕*\n\n",
@@ -3370,7 +3594,13 @@
                 "*[❗] Você não possui",
                 "para transferir.*"
             ],
-            "texto6": "*Tem certeza de que deseja transferir",
+            "texto6": [
+                "*Tem certeza de que deseja transferir",
+                "*—◉ Você tem 60 segundos para confirmar*",
+                "Você tem  *60* s",
+                "Digite: (si) para confirmar",
+                "Digite: (no) para cancelar"
+            ],
             "texto7": "*[❗] Cancelado, a transferência não será concluída.*",
             "texto8": "*[❗] Transferido com sucesso",
             "texto9": "*[❗] Erro ao transferir"
@@ -3502,7 +3732,7 @@
         "sticker_sticker": {
             "texto1": "*[❗️] RESPOSTA A UM VÍDEO, IMAGEM OU INSERT ELÁSTICO DE UMA IMAGEM .jpg NO CANAL DE TEXTO EMBEDDEO. DEVE RESPONDER A UM ELÁSTICO DO SER CONVERTE EN STICKER, DEVE RESPONDER OU USAR O COMANDO EL CONVERTIDOR NO SER*",
             "texto2": "*[❗️] O ENLAÇE / URL / LINK NÃO É VÁLIDO, LA TERMINACIÓN DEL EL LINK DEBE SER .jpg, EJEMPLO*",
-            "texto3": "*[❗️] OCORREU UM ERRO, VÁLIDO A ENTRADA. RESPONDA A UM VÍDEO, IMAGEM OU USE O COMANDO EL CONVERTER NO SER*"
+            "texto3": "*[❗] ARQUIVO MULTIMÍDIA AUSENTE*\n\n*—◉ Responda a um vídeo ou imagem que será convertido em adesivo, você deve responder ao arquivo de mídia ou enviá-lo usando o comando:*\n*◉"
         },
         "sticker_stickerfilter": {
             "texto1": [
@@ -3538,6 +3768,82 @@
             "texto2": "*[❗️INFORMAÇÃO❗️] Responda ao adesivo que deseja adicionar a um Pacote e um Nome*",
             "texto3": "*[❗️INFORMAÇÃO❗️] Responda ao adesivo que deseja adicionar a um Pacote e um Nome*",
             "texto4": "*[❗️INFORMAÇÃO❗️] DESCULPE, FALHA RÁPIDA.. CERTIFIQUE-SE DE QUE RESPONDEU A UM ADESIVO E FORNECEU UM PACOTE, NOME DO PACOTE E NÚMERO DO PACOTE E NOME DE USUÁRIO*"
+        },
+        "adult_comandos": {
+            "texto1": "[❗INFORMAÇÃO❗] Os COMANDOS +18 ESTÃO DESATIVADOS NO GRUPO, SE VOCÊ É ADMIM E DESEJA ATIVÁ-LOS USE O COMANDO #enable modohorny"
+        },
+        "_language": {
+            "texto1": [
+                "\n\n_Para trocar de idioma, envie o comando e a sigla da linguagem desejada_\n\n*👉Exemplo:*",
+                "*Linguagens Disponíveis:*\n🇪🇸 es - Espanhol\n🇧🇷 pt-br - Português\n🇬🇧 en - Inglês\n🇷🇺 ru - Rússia\n🇫🇷 fr - Français\n\n_Traduções em desenvolvimento, podera haver alguns erros_",
+                "*🗣 CONFIG IDIOMA BOT*\n",
+                "_[!] Seu idioma atual é:_"
+            ],
+            "texto2": [
+                "*🗣IDIOMA GRUPO*\n\n_Envie o comando e a sigla da linguagem desejada_\n\n*👉Exemplo:*",
+                "*Linguagens Disponíveis:*\n🇪🇸 es - Espanhol\n🇧🇷 pt-br - Português\n🇬🇧 en - Inglês\n🇷🇺 ru - Rússia\n🇫🇷 fr - Français\n\n_Traduções em desenvolvimento, podera haver alguns erros_"
+            ],
+            "texto3": "*[ ! ]* _Este comando só pode ser usado em grupos_",
+            "texto4": "*[ ! ]* _Este comando só pode ser usado por *Administradores*_"
+        }
+    },
+    "handler": {
+        "handler": {
+            "texto1": [
+                "_*< USUÁRIO SUSPENSO />*_\n",
+                "▢ *Aviso:*",
+                "\n▢ *Motivo:*",
+                "▢ *Motivo:* Não especificado",
+                "*[ ℹ️ ] Se você acredita que isso é um erro e possui evidências, pode entrar em contato com o proprietário(a) do bot para apelar a suspensão.*"
+            ],
+            "texto2": "*[ ℹ️ ] Seus diamantes acabaram, você pode adquirir mais com o comando:*",
+            "texto3": [
+                "*[ ℹ️ ] É necessário ter o nível",
+                "para poder usar o comando. Seu nível atual é",
+                "use o comando",
+                "para aumentar seu nível com XP.*"
+            ],
+            "texto4": [
+                "*[ ℹ️ ] Foram usados",
+                "diamante(s) (limites).*"
+            ]
+        },
+        "dfail": {
+            "texto1": "[ ℹ️ ] Este comando só pode ser utilizado pelo proprietário do bot.",
+            "texto2": "[ ℹ️ ] Este comando só pode ser utilizado pelo proprietário do bot.",
+            "texto3": "[ ℹ️ ] Este comando só pode ser utilizado por moderadores e pelo proprietário do bot.",
+            "texto4": "[ ℹ️ ] Este comando só pode ser utilizado por usuários premium e pelo proprietário do bot.",
+            "texto5": "[ ℹ️ ] Este comando só pode ser utilizado em grupos.",
+            "texto6": "[ ℹ️ ] Este comando só pode ser utilizado no chat privado do bot.",
+            "texto7": "[ ℹ️ ] Este comando só pode ser usado por administradores do grupo.",
+            "texto8": "[ ℹ️ ] Para utilizar este comando, é necessário que o bot seja administrador do grupo.",
+            "texto9": "[ ℹ️ ] Para utilizar este comando, você deve estar registrado.\n\n*[ 💡 ] Use o comando:* /verificar nome.idade para se registrar.",
+            "texto10": "[ ℹ️ ] Este comando foi desativado pelo proprietário do bot.",
+            "texto11": [
+                "[ ⚠️ ] Aviso",
+                "[ ⚠️ ] Aviso",
+                "https://github.com/BrunoSobrino/TheMystic-Bot-MD"
+            ]
+        },
+        "participantsUpdate": {
+            "texto1": "👋 Bem-vindo/a!\n@user",
+            "texto2": "👋 Até logo!\n@user",
+            "texto3": "*[ ℹ️ ] @user foi promovido a administrador.*",
+            "texto4": "*[ ℹ️ ] @user foi degradado de administrador.*",
+            "texto5": "*[ ℹ️ ] A descrição do grupo foi modificada.*",
+            "texto6": "*[ ℹ️ ] O nome do grupo foi modificado.*",
+            "texto7": "*[ ℹ️ ] A foto de perfil do grupo foi alterada.*",
+            "texto8": "*[ ℹ️ ] O link de convite para o grupo foi redefinido.*"
+        },
+        "deleteUpdate": {
+            "texto1": [
+                "< ANTI-DELETE />\n",
+                " ▢ Usuário:",
+                " ▢ Hora:",
+                "▢ Data:",
+                "▢ Enviando a mensagem excluída...\n",
+                "[ ℹ️ ] Para desativar a função antidelete, envie o seguinte comando: /disable antidelete"
+            ]
         }
     }
 }

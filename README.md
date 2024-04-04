@@ -6,11 +6,22 @@
 > TheMystic-Bot-MD pasa a quedar en manos de colaboradores, y como principal representante Aiden_NotLogic.
 ------------------
 
+<!-- Por colaborador: https://github.com/jeffersonalionco -->
+> Función de **idioma** oficialmente implementada en TheMystic-Bot-MD: **/lang**
+> ##### **𝙏𝙃𝙀 𝙈𝙔𝙎𝙏𝙄𝘾 - 𝘽𝙊𝙏 - Idiomas Disponibles**
+> - es - Español
+> - pt-br - Portugués
+> - en - Inglés
+> - ru - Ruso
+> - fr - Francés
+
 ### `▢ CUENTAS OFICIALES`
 
 [ 🔗 ] https://www.atom.bio/theshadowbrokers-team
 
 ### `▢ GRUPOS DE SOPORTE (NO DISPONIBLE)`
+
+ <a href="https://chat.whatsapp.com/J8tFq87Ia0jEnx20NvCQxN" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE_(PORTUGU%C3%8AS)_(ATIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <a href="https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE_(ES)_(NO_DISPONIBLE)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
@@ -20,20 +31,37 @@
 
  ### `▢ BOTS OFICIALES (INACTIVOS)`
 
+
 <a href="https://api.whatsapp.com/send/?phone=5219991402134&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1_(INACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <a href="https://api.whatsapp.com/send/?phone=5219993404349&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_2_(INACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ### `▢ DONAR`
-- AGRADECE CON UNA DONACION VOLUNTARIA [Aqui](https://www.paypal.me/TheShadowBrokers133)
+- Agradece con una donación voluntaria haciendo [clic aquí](https://www.paypal.me/TheShadowBrokers133)
 
 ### `▢ PLUGINS`
-- TIENES IDEAS DE PLUGINS O QUIERES OBTENER MAS PLUGINS? DA CLICK EN [https://github.com/theh2so4/Mystic-Plugins](https://github.com/theh2so4/Mystic-Plugins)
+- Tienes ideas de plugins o ¿quieres obtener mas plugins? entonces hace [clic aquí](https://github.com/theh2so4/Mystic-Plugins)
 
 ### `▢ AJUSTES`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
-- CAMBIAR NÚMERO DEL PROPIETARIO(A) [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
-  
+- Clona el repositorio haciendo [clic aquí](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
+- ¿Quieres cambiar el número del propietario? haz [clic aquí](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
+
+### `▢ ACTIVAR EN CAFIREXOS (ANTES ZIPPONODES)`
+<a href="https://www.cafirexos.com"><img src="https://r2.cafirexos.com/logos%2Flogo_cfros_2000x2000.png" height="125px"></a>
+- Sitio web: [www.cafirexos.com](https://www.cafirexos.com)
+- Dash: [dash.cafirexos.com](https://dash.cafirexos.com)
+- Panel: [panel.cafirexos.com](https://panel.cafirexos.com)
+- Documentación: [docs.cafirexos.com](https://docs.cafirexos.com)
+- Canal de WhatsApp: [clic aquí](https://cafirexos.com/whatsapp)
+
+### `▢ ACTIVAR EN BOXMINEHOST`
+<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
+- Pagina Oficial: [https://boxmineworld.com](https://boxmineworld.com)
+- Dashboard: [https://dash.boxmineworld.com](https://dash.boxmineworld.com)
+- Panel: [https://panel.boxmineworld.com](https://panel.boxmineworld.com)
+- Tutorial: [https://youtu.be/eC9TfKICpcY](https://youtu.be/eC9TfKICpcY)
+- Dudas UNICAMENTE SOBRE EL HOST: [https://discord.gg/84qsr4v](https://discord.gg/84qsr4v) (Preguntar por Vicemi)
+
 ### `▢ ACTIVAR EN KOYEB`
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/BrunoSobrino/TheMystic-Bot-MD&branch=master&name=mysticbot)
@@ -46,24 +74,8 @@
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FBrunoSobrino%2FTheMystic-Bot-MD) 
 
-### `▢ ACTIVAR EN CAFIREXOS (ANTES ZIPPONODES)`
-<a href="https://www.cafirexos.com"><img src="https://grxcwmcwbxwj.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grxcwmcwbxwj/b/cafirexos/o/logos%2Flogo_2.png" height="125px"></a>
-- Sitio web: [cafirexos.com](https://www.cafirexos.com)
-- Dash: [dash.cafirexos.com](https://dash.cafirexos.com)
-- Panel: [panel.cafirexos.com](https://panel.cafirexos.com)
-- Documentación: [docs.cafirexos.com](https://docs.cafirexos.com)
-- Canal de WhatsApp: [whatsapp.cafirexos.com](https://whatsapp.cafirexos.com)
-
-### `▢ ACTIVAR EN BOXMINEHOST`
-<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
-- Pagina Oficial: [https://boxmineworld.com](https://boxmineworld.com)
-- Dashboard: [https://dash.boxmineworld.com](https://dash.boxmineworld.com)
-- Panel: [https://panel.boxmineworld.com](https://panel.boxmineworld.com)
-- Tutorial: [https://youtu.be/eC9TfKICpcY](https://youtu.be/eC9TfKICpcY)
-- Dudas UNICAMENTE SOBRE EL HOST: [https://discord.gg/84qsr4v](https://discord.gg/84qsr4v) (Preguntar por Vicemi)
-
 ### `▢ ACTIVAR EN TERMUX` 
-- ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+- Escribe los siguientes comandos en Termux:
 ```bash
 cd && termux-setup-storage
 ```
@@ -96,20 +108,20 @@ npm update
 npm start
 ```
 
-### `▢ ACTIVAR EN CASO DE DETENERSE EN TERMUX`
+### `▢ ACTIVAR EN CASO DE DETENERSE (TERMUX)`
+- Escribe los siguientes comandos en Termux:
 ```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
 > cd Mystic-termux
 > npm start
 ```
 
-### `▢ OBTENER OTRO CODIGO QR EN TERMUX`
-- DETEN EL BOT, HAZ CLICK EN EL SIMBOLO CTRL DE TERMUX MAS Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A Mystic-termux $  
+### `▢ OBTENER OTRO CODIGO QR (TERMUX)`
+- DETEN EL BOT, HAZ CLICK EN EL SIMBOLO CTRL DE TERMUX MAS Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A TheMystic-Bot-MD $
+- Escribe los siguientes comandos en Termux:
 ```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Mystic-termux
+> cd TheMystic-Bot-MD
 > rm -rf MysticSession
 > npm start
 ```
@@ -122,7 +134,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - EL ADD Y EL KICK PUEDEN OCASIONAR QUE EL NUMERO SE VAYA A SOPORTE POR ELLO SE ACTIVA CON #enable restrict 
 - THE SHADOW BROKERS - TEAM NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
  
- ### `▢ DUDAS SOBRE EL BOT?, CONTACTANOS`
+ ### `▢ ¿DUDAS SOBRE EL BOT?, CONTACTANOS`
 <a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/34642467703" target="blank"><img src="https://img.shields.io/badge/UNPTOADHIH15_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/50499698072" target="blank"><img src="https://img.shields.io/badge/ALBERTO_ACOSTA_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -155,14 +167,16 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="https://github.com/OFC-YOVANI"><img src="https://github.com/OFC-YOVANI.png" width="100" height="100" alt="OFC-YOVANI"/> </a>
 <a href="https://github.com/elrebelde21"><img src="https://github.com/elrebelde21.png" width="100" height="100" alt="elrebelde21"/> </a>
 <a href="https://github.com/Fabri115"><img src="https://github.com/Fabri115.png" width="100" height="100" alt="Fabri115"/> </a>
+<a href="https://github.com/Alba070503"><img src="https://github.com/Alba070503.png" width="100" height="100" alt="Alba070503"/> </a>
+
 
 ## `▢ AGRADECIMIENTOS & CREDITOS` 
-<div><button id="boton" type="button">games-wabot-md - By BochilGaming </button></div>
+<div><button id="boton" type="button">games-wabot-md by BochilGaming </button></div>
 <a href="https://github.com/BochilGaming/games-wabot-md/tree/multi-device"><img src="https://github.com/BochilGaming.png" width="150" height="150" alt="BochilGaming"/></a>
-<div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
+<div><button id="boton" type="button">Baileys by adiwajshing & WhiskeySockets</button></div>
 <a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="150" height="150" alt="adiwajshing"/></a>
 
-## `▢ EDITOR & PROPIETARIO DEL BOT` 
+## `▢ PROPIETARIO DEL BOT` 
 <a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="250" height="250" alt="BrunoSobrino"/></a>
   
-`TheMystic-Bot-MD - By Bruno Sobrino`
+`TheMystic-Bot-MD by Bruno Sobrino`
